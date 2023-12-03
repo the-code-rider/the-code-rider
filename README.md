@@ -1,6 +1,6 @@
 Hi, I am indie developer.
 I like to dream, code, and create. 
-These days I am exploring the generating AI field (image, and video), and dreaming
+These days I am exploring the generative AI field (image, and video), and dreaming
 about a new paradigm for media consumption.
 
 
