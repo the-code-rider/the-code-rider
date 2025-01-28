@@ -1,8 +1,4 @@
-NEET Arc.
-I like to dream, code, and create. 
-These days I am exploring the generative AI field (image, and video), and dreaming
-about a new paradigm for media consumption.
-
+in pursuit of infinite inspirational information interface
 
 <!---
 the-code-rider/the-code-rider is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
